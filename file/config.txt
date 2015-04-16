@@ -1,0 +1,4 @@
+minSize:200
+maxSize:1010
+interval:1000
+camera:0
